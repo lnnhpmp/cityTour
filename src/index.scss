@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack:rgb(0, 0, 0);
+$mainGreen:rgb(131, 209, 166);
+$mainWhite:rgb(255, 255, 255);
+$mainGrey:#f3e9e9;
+
+body{
+    background: $mainWhite;
+    color: $mainBlack;
+    font-family: 'Roboto Slab', serif;
+}
